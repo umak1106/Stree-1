@@ -33,6 +33,3 @@ if st.sidebar.button(' Go to Github ') :
 
 if st.sidebar.button(' Go to Linkedin ') :
     webbrowser.open_new_tab('https://www.linkedin.com/in/uma-kadam-7885341b0/')
-
-
-
